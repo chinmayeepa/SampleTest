@@ -3,3 +3,4 @@ def simple_interest(t,p=10000,r=13):
 	print('simple interest =',si)
 simple_interest(10000,5,12)
 simple_interest(5)
+print("running")
